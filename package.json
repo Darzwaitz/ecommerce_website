@@ -1,11 +1,9 @@
 {
-    "author" : "Darz K",
+    "author": "Darz K",
     "description": "eCommerce web shop",
-
-    "private" : true,
-    
+    "private": true,
     "dependencies": {
         "gulp": "~3.9",
-        "laravel-elixir": "~5.0.0"
+        "laravel-elixir": "~5.0.0"        
     }
 }
